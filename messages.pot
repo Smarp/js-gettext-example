@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-22 10:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: test.js:5
+msgctxt "context1"
+msgid "singular_key1"
+msgid_plural "plural_key1"
+msgstr[0] ""
+msgstr[1] ""
+
+#: test.js:6
+msgid "singular_key2"
+msgid_plural "plural_key2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: test.js:7
+msgctxt "context3"
+msgid "singular_key3"
+msgstr ""
+
+#: test.js:8
+msgid "singular_key4"
+msgstr ""
+
+#: subdir/sub.js:5 subdir/sub.js:9 subdir/sub.js:13 subdir/sub.js:17
+#, javascript-format
+msgid "Hi %s, you have %d message"
+msgid_plural "Hi %s, you have %d messages"
+msgstr[0] ""
+msgstr[1] ""
